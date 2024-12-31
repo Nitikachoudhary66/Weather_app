@@ -1,6 +1,8 @@
 ## Weather App: Real-Time Weather Information
 The Weather App provides real-time weather data based on your location or by searching for any city. It retrieves and displays current weather conditions such as temperature, wind speed, humidity, and cloudiness using the OpenWeatherMap API.
 
+
+
 ## Features
 Location-based Weather: Upon loading, the app requests access to your location to provide weather data specific to your area.
 City Search: You can search for weather information by entering a city name.
@@ -17,9 +19,9 @@ Grant Location Access: The app will request permission to access your location f
 Search for Weather: You can search for weather data by entering the name of a city in the search bar.
 The weather details, including temperature, wind speed, humidity, and cloud cover, will be displayed on the screen.
  ## Installation
-No installation is required. Simply access the app through the following link:
+No installation is required. Simply access the app through the following link:https://github.com/Nitikachoudhary66/Weather_app
 
-Weather App
+
 
 ## Usage
 Upon opening the app, it will either request location access or allow you to search for a city's weather.
@@ -47,7 +49,7 @@ The Weather App is created by Nitika. You are free to use, modify, and distribut
 Special thanks to Love Babbar for his Web Development course, which helped make this project possible.
 The OpenWeatherMap API has been instrumental in providing the weather data.
 Contact
-For any questions, feedback, or inquiries, you can reach out to me via email: anantaggcsai@gmail.com.
+For any questions, feedback, or inquiries, you can reach out to me via email:Choudharynitika259@gmail.com.
 ## Final Thoughts
 
 I hope you find WeatherSense useful for checking weather conditions in your area or any city you're interested in. Enjoy using the app and stay informed about the weather!
