@@ -19,7 +19,7 @@ Grant Location Access: The app will request permission to access your location f
 Search for Weather: You can search for weather data by entering the name of a city in the search bar.
 The weather details, including temperature, wind speed, humidity, and cloud cover, will be displayed on the screen.
  ## Installation
-No installation is required. Simply access the app through the following link:https://github.com/Nitikachoudhary66/Weather_app
+No installation is required. Simply access the app through the following link:https://weather-app-n7j9.vercel.app/
 
 
 
