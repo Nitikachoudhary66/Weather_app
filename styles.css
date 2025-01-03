@@ -12,16 +12,15 @@
     --colorLight2: #F9F7F7;
 }
 
-
 .wrapper {
-    width: calc(100vw);
-    height: calc(100vh);
+    width: 200vw;
+    height: 200vh;
     color: var(--colorLight2);
     background-image: linear-gradient(160deg, #112d4e 0%, #3f72af 100%);
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* This ensures that content is spread between top and bottom */
-    overflow: hidden; /* Prevents scrollbars from disrupting the layout */
+    justify-content: space-between;  /* This ensures that content is spread between top and bottom */
+
 }
 
 
